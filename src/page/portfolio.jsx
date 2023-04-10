@@ -1,15 +1,11 @@
 import Navbar from "./component/navbar";
+import "./portfolio.css";
 
 const Portfolio = () => {
   return (
-    <div>
+    <main>
       <Navbar />
-      <introduction />
-      <about />
-      <skill />
-      <project />
-      <contact />
-    </div>
+    </main>
   );
 };
 
