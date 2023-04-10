@@ -1,0 +1,11 @@
+.container-navbar {
+  display: flex;
+  background-color: brown;
+  padding: 1rem;
+  justify-content: space-between;
+}
+.li-nav {
+  background-color: aqua;
+  display: flex;
+  align-self: center;
+}
